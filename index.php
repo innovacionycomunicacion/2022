@@ -1,3 +1,5 @@
+<html>
+  <body>
 <table border="1" cellspacing=1 cellpadding=2 style="font-size: 8pt"><tr>
 <td><font face="verdana"><b>id</b></font></td>
 <td><font face="verdana"><b>nombre</b></font></td>
@@ -29,3 +31,5 @@
   mysql_close($link);
 ?>
 </table>
+  </body>
+  </html>
